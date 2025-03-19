@@ -1,6 +1,7 @@
 # DBI 
 
-**NO ENGLISH VERSION FOR NOW. READ MORE** - https://github.com/rashevskyv/dbi/issues/370
+**NO ENGLISH VERSION FOR NOW. READ MORE** - https://github.com/rashevskyv/dbi/issues/370 <<-- This link is not longer working
+Would it be possible to add the texts for the menu options as variables in the config file? (so it would allow everybody to easily setup his own preferred language) ? Thanks.
 
 ![Github latest downloads](https://img.shields.io/github/downloads/rashevskyv/dbi/total.svg)
 
